@@ -1,0 +1,2 @@
+# python-shots
+basic python
