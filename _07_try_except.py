@@ -14,6 +14,8 @@ def division_func(var1, var2):
         print('Error: Dont divide by zero')
     except:  # catch all error
         print('Generic error handling')
+    finally:
+        print('This will always execute')
 
 
 print('Welcome to Division program unit')
