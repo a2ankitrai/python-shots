@@ -8,4 +8,4 @@ print(394)
 print(25 * 24 * 60 * 60)
 
 print("I have " + str(30) + " cars")
-print(f"I have {25 * 24 * 60 * 60} days")
+print(f"I have {25 * 24 * 60 * 60} days  ")
